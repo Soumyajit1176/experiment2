@@ -1,6 +1,6 @@
 # experiment2
 <html>
 <body>
-  alu
+  print
 </body>
 </html>
